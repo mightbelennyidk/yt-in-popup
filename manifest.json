@@ -8,6 +8,6 @@
   ],
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "images/icon48.png"
+    "default_icon": "icon48.png"
   }
 }
